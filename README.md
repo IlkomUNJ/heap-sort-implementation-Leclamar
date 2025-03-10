@@ -1,7 +1,7 @@
 # Identity :
-Name : Marcella Calista Kristianti
-NIM : 1313623031
-Github : https://github.com/Leclamar
+- Name : Marcella Calista Kristianti
+- NIM : 1313623031
+- Github : https://github.com/Leclamar
 
 # Instruction :
 1. Open terminal 
